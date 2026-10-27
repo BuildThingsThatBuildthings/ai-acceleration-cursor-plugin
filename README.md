@@ -61,7 +61,7 @@ Open **Context Cards → Connect your AI** in the portal and select **Disconnect
 | `mcp.json` | The AI Acceleration MCP server and its sign-in settings |
 | `skills/get-started/SKILL.md` | How your AI continues your real estate onboarding |
 | `skills/use-my-context/SKILL.md` | How your AI drafts from your connected Context Cards |
-| `assets/logo.png` | Plugin logo |
+| `assets/logo.png` | Plugin logo (512 x 512 PNG) |
 
 The server runs on AI Acceleration's own infrastructure. This repository holds the plugin files only.
 
