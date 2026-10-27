@@ -1,0 +1,23 @@
+{
+  "name": "ai-acceleration",
+  "version": "1.0.0",
+  "description": "Use the Context Cards, business onboarding, private listing drafts, and learning roadmap saved in your AI Acceleration account.",
+  "author": {
+    "name": "Build Things That Build Things, LLC (doing business as AI Acceleration)",
+    "email": "support@aiacceleration.ai"
+  },
+  "homepage": "https://aiacceleration.ai/connect-your-ai",
+  "repository": "https://github.com/BuildThingsThatBuildthings/ai-acceleration-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "real estate",
+    "realtor",
+    "listing description",
+    "context cards",
+    "brand voice",
+    "client follow-up",
+    "business onboarding",
+    "learning roadmap"
+  ],
+  "logo": "assets/logo.png"
+}

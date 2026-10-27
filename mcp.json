@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "ai-acceleration": {
+      "url": "https://mcp.aiacceleration.ai/mcp/context-cards",
+      "auth": {
+        "CLIENT_ID": "LRJNJBKEvHyDdaW6",
+        "scopes": [
+          "openid",
+          "offline_access",
+          "context-cards:read",
+          "learning:read",
+          "onboarding:read",
+          "onboarding:write"
+        ]
+      }
+    }
+  }
+}
